@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ randomInteger(int)
+comment0.text=\r\n\ Convenience\ method.\r\n\ Generate\ a\ random\ integer\ between\ 0\ and\ n\r\n
+comment1.params=
+comment1.target=void\ printWelcomeMessage()
+comment1.text=\r\n\ Print\ a\ simple\ welcome\ message\ for\ when\ the\ game\ starts.\r\n
+comment2.params=msg\ scanner
+comment2.target=int\ inputInteger(java.lang.String,\ java.util.Scanner)
+comment2.text=\r\n\ Input\ an\ integer\ from\ the\ scanner.\ If\ an\ invalid\ input\ is\ given,\ then\r\n\ keep\ trying\ until\ a\ valid\ input\ is\ given.\r\n\ \r\n\ @param\ msg\ The\ message\ to\ print\ before\ reading\ the\ input\r\n\ @param\ in\ The\ scanner\ from\ which\ to\ read\ the\ input\r\n\ @return\r\n
+comment3.params=square\ visible
+comment3.target=void\ printSquare(GridSquare,\ boolean)
+comment3.text=\r\n\ Print\ a\ grid\ square\ to\ the\ standard\ output.\ If\ the\ visible\ flag\ is\ set,\r\n\ then\ ShipSquares\ are\ visible.\r\n\ \r\n\ @param\ square\r\n\ @param\ visible\r\n
+comment4.params=game
+comment4.target=void\ printBoard(BattleShipsGame)
+comment4.text=\r\n\ Print\ the\ current\ state\ of\ the\ game\ board\ to\ the\ standard\ output.\r\n\ \r\n\ @param\ game\r\n
+comment5.params=game
+comment5.target=void\ playGame(BattleShipsGame)
+comment5.text=\r\n\ Play\ the\ game\!\r\n\ \r\n\ @param\ game\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
